@@ -15,10 +15,10 @@
 
 
 
-- **1. Creating Issues and Milestones in GitHub**:I learned how to break down my work into small tasks using issues, and group them under milestones to plan and track my progress effectively.
-- **2. Using Branches to Work on Features Separately**:I learned to create separate branches for each feature , which helps avoid conflicts and keeps the main code clean and stable.
-- **3.  Writing Clear Commit Messages and Referencing Issue**:I learned to write short and clear commit messages that describe what I changed, and to link them to issues to keep everything connected and easy to understand.
-- **4.  Creating and Managing Pull Requests Before Merging Code**:I learned how to use pull requests to review code changes before merging, which improves code quality.
+ **1. Creating Issues and Milestones in GitHub**:I learned how to break down my work into small tasks using issues, and group them under milestones to plan and track my progress effectively.
+**2. Using Branches to Work on Features Separately**:I learned to create separate branches for each feature , which helps avoid conflicts and keeps the main code clean and stable.
+**3.  Writing Clear Commit Messages and Referencing Issue**:I learned to write short and clear commit messages that describe what I changed, and to link them to issues to keep everything connected and easy to understand.
+**4.  Creating and Managing Pull Requests Before Merging Code**:I learned how to use pull requests to review code changes before merging, which improves code quality.
 
 
 ## 4. Screenshots of Key GitHub Features
@@ -35,9 +35,11 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ### A. Milestones and Issues
 
 ![image](https://github.com/user-attachments/assets/7ba708a5-b629-4e5c-bd9b-c05cc0ba3ad1)
+![WhatsApp Image 2025-06-24 at 10 02 00_8a7fdf45](https://github.com/user-attachments/assets/a413e1a2-3a64-4eb6-afa5-3c91917fcd79)
+![WhatsApp Image 2025-06-24 at 10 04 22_dbf8d16f](https://github.com/user-attachments/assets/436c524b-dedd-4f1a-9b9e-a67ad83e32a6)
+![WhatsApp Image 2025-06-24 at 10 07 08_766fb99f](https://github.com/user-attachments/assets/fd5180ae-76d1-450c-9eec-a44d46954f16)
 
-
-
+The images show the milestones of the project and the issues per milestone.
 
 ### B. Project Board
 
@@ -58,4 +60,5 @@ The image shows my branches which have been named using the required naming conv
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+![WhatsApp Image 2025-06-24 at 10 19 31_f5d9c413](https://github.com/user-attachments/assets/165e4df6-e018-4150-9b27-79ff4a578b54)
+
