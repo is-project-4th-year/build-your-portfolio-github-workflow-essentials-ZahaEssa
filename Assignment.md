@@ -9,7 +9,7 @@
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+ (https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-ZahaEssa/)
 
 ## 3. Learnings from the Git Crash Program
 
@@ -35,16 +35,23 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ### A. Milestones and Issues
 
 ![image](https://github.com/user-attachments/assets/7ba708a5-b629-4e5c-bd9b-c05cc0ba3ad1)
+This image shows all the milestones of the project
+
 ![WhatsApp Image 2025-06-24 at 10 02 00_8a7fdf45](https://github.com/user-attachments/assets/a413e1a2-3a64-4eb6-afa5-3c91917fcd79)
+This image shows all the issues of the About Me section milestone 
+
 ![WhatsApp Image 2025-06-24 at 10 04 22_dbf8d16f](https://github.com/user-attachments/assets/436c524b-dedd-4f1a-9b9e-a67ad83e32a6)
+This image shows all the issues of the Home section milestone 
+
 ![WhatsApp Image 2025-06-24 at 10 07 08_766fb99f](https://github.com/user-attachments/assets/fd5180ae-76d1-450c-9eec-a44d46954f16)
+This image shows all the issues of the Contact section milestone 
 
 The images show the milestones of the project and the issues per milestone.
 
 ### B. Project Board
 
 ![image](https://github.com/user-attachments/assets/2f5dbd14-5c21-4279-8be1-98704ed527f3)
-The image shows my project Board dvided into three columns: "Todo", "In Progress" and "Done" 
+The image shows my project Board divided into three columns: "Todo", "In Progress" and "Done" 
 
 
 ### C. Branching
@@ -56,9 +63,12 @@ The image shows my branches which have been named using the required naming conv
 ### D. Pull Requests
 
 ![image](https://github.com/user-attachments/assets/e1ba527f-fa25-483c-9707-57ba7c8d4c84)
+The image shows a merged pull request and its related issue number.
 
 
 ### E. Merge Conflict Resolution
 
 ![WhatsApp Image 2025-06-24 at 10 19 31_f5d9c413](https://github.com/user-attachments/assets/165e4df6-e018-4150-9b27-79ff4a578b54)
+
+The image shows a merge conflict being resolved which was caused by editing of the same line in two different branches.
 
