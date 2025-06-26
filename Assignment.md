@@ -33,12 +33,6 @@
 
 ## 4. Screenshots of Key GitHub Features
 
-_Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, a short caption is provided._
-
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:  
-> `![Caption](path/to/your/image.png)`
-
----
 
 ### A. Milestones and Issues
 
@@ -79,5 +73,5 @@ The image shows a merged pull request and its related issue number.
 
 ### E. Merge Conflict Resolution
 
-![Merge Conflict](https://github.com/user-attachments/assets/165e4df6-e018-4150-9b27-79ff4a578b54)  
+![WhatsApp Image 2025-06-24 at 10 33 59_6d70453f](https://github.com/user-attachments/assets/edea183a-dc99-4c08-9dfb-3f401348917e)
 The image shows a merge conflict being resolved, which was caused by editing the same line in two different branches.
